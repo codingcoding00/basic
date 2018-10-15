@@ -1,3 +1,5 @@
 learning what i am aiming for
 see what happens after executing another git commands
 finger crossed
+after some struggle i got relief
+yeah it works and sigh of happiness that i have learned some amoumt of git 
